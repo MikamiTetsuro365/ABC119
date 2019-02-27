@@ -54,7 +54,6 @@ void dfs(int n, vector<int > cost){
             dfs(n + 1, cost);
         }
     }
-
 }
 
 int main(){
